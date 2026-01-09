@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Nova - AI English Tutor",
+  "description": "A premium English speaking practice application featuring an interactive female robot tutor, real-time speech analysis, and persistent progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
